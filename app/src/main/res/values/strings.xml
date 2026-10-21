@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VKMP</string>
+    <string name="tab_my_music">Моя музыка</string>
+    <string name="tab_discover">Рекомендации</string>
+    <string name="tab_offline">Офлайн</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="action_download_all">Скачать все</string>
+    <string name="action_play_all">Слушать всё</string>
+    <string name="search_placeholder">Поиск по трекам и артистам…</string>
+    <string name="auth_vk_max_title">Вход в ВКонтакте</string>
+    <string name="auth_vk_max_subtitle">Вход через VK ID и мессенджер MAX</string>
+    <string name="auth_token_title">Вход по токену Kate / VK</string>
+    <string name="auth_demo_title">Продолжить в демо / офлайн-режиме</string>
+    <string name="channel_playback_name">Воспроизведение музыки</string>
+    <string name="channel_playback_desc">Управление плеером и фоновым звуком</string>
+</resources>

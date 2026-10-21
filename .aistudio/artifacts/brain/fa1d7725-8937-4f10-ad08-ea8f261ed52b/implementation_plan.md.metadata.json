@@ -1,0 +1,6 @@
+{
+  "summary":  "План реализации музыкального плеера VKMP (Clean Room) для Android на Kotlin и Jetpack Compose с поддержкой авторизации через VK/MAX, полным автокешированием, пакетным скачиванием музыки, фоновым воспроизведением и дизайном Material You.",
+  "updatedAt":  "2026-10-21T09:22:51.331977661Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

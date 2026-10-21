@@ -1,0 +1,6 @@
+{
+  "name": "VKMP",
+  "description": "Музыкальный плеер ВКонтакте с авторизацией через MAX, автокешированием и офлайн-режимом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
